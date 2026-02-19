@@ -4,7 +4,8 @@ description: A skill for identifying and refusing the small ritual capitulations
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4398
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - living-in-truth
